@@ -7,7 +7,7 @@ const port = process.env.PORT || 5001
 
 // middleware
 app.use(cors())
-app.use(express.json())
+
 
 
 
